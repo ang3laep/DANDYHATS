@@ -1,0 +1,56 @@
+<!DOCTYPE html><html lang="en"><head>
+       <meta charset="UTF-8">
+       <meta http-equiv="X-UA-Compatible" content="IE=edge">
+       <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+       <title>DandyHats</title>
+       <link rel="shortcut icon" href="../img/.png" type="image/png" sizes="16x16">
+       <link rel="stylesheet" href="https://www.verifydandyhat.com/skin/css/bootstrap.css">
+       <link rel="stylesheet" href="https://www.verifydandyhat.com/skin/css/master.css">
+       <!--<link rel="preconnect" href="https://fonts.googleapis.com">-->
+       <!--<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">-->
+       <link href="https://www.verifydandyhat.com/skin/css/ba723663526b4feaa1b2ac6627f611cc.css" rel="stylesheet">
+       <link href="https://www.verifydandyhat.com/skin/css/ba723663526b4feaa1b2ac6627f611cc.css" rel="stylesheet">
+    <style>
+        .title-h {
+        padding: 4px 0px;
+        }
+        </style></head>
+    
+    <body>
+       <section class="verification-wrapper">
+          <!--<div class="back-video">
+             <video src="../img/krt-video.mp4" autoplay="" playsinline="" loop="" muted=""></video>
+          </div>-->
+          <div class="verify-inputbox">
+          <div class="verifyInfo">
+             <div class="IconBox text-center">
+                <img src="https://www.verifydandyhat.com/skin/picture/dandyhats.gif" alt="" id="verifyImg" class="not-verify-img">
+                <div class="title-h">
+                  <img src="https://www.verifydandyhat.com/skin/picture/sad-boy.png">
+                </div>
+             </div>
+             <div id="verifyContent" class="text-center">
+                <img src="https://www.verifydandyhat.com/skin/picture/h2.png" class="color-logo1 success-img" alt="">
+                <div class="sicces-im">
+                </div>
+                <div class="product-text">
+                   <h5>AUTHENTIC PRODUCT</h5>
+                   <p>SCAN COUNT: 1</p>
+                </div>
+                <!--<div class="flw">
+                   
+                   <a href="https://www.verifydandy.com/redirect/?type=ig&url=https%3A%2F%2Fwww.instagram.com%2Fdandyhats&client=Dandy+Hats" target="_blank">
+                   <img src="skin/picture/instagram.png" alt="" class="image-clr">
+                   </a>
+                   <span>
+                   @dandyhats
+                   </span>
+                   
+                </div>-->
+             </div>
+          </div>
+       </div></section>
+       <script src="https://www.verifydandyhat.com/skin/js/jquerymin.js"></script>
+       <script src="https://www.verifydandyhat.com/skin/js/bootstrap.js"></script>
+    
+ </body></html>
